@@ -13,6 +13,10 @@ The project involves designing an FSM to process input signals from a rotary enc
 - **Test Bench**: Includes a test setup for validating the FSM behavior.
 - **Demonstration Video**: Showcases the expected behavior of the design.
 
+
+https://github.com/user-attachments/assets/2a53f8a4-e64f-48e5-a64c-6b5814bfacfb
+
+
 ## Files
 
 - `rotarytest.dig`: Test bench for verifying the FSM design.
